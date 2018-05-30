@@ -23,10 +23,23 @@ h1 {
 
 h3 {
   font-size: 1.3em;
-  background-color: green;
 }
 
-div class="new-element" {
+.new-element-one {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.new-element-two {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.new-element-three {
   background-color: green;
   height: 100px;
   margin: 10px 0;
